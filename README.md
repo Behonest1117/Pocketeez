@@ -1,7 +1,7 @@
 # Pocketeez
 
 > **Tiny companions for your desktop — made for ATINY.**  
-> 把小小的它们放进电最上面的脑里，在日常使用电脑的时候陪着 ATINY。
+> 把小小的它们放进电脑里，在日常使用电脑的时候陪着 ATINY。
 
 **Pocketeez** 是由 **Be.honest.** 制作的长期像素桌宠系列，名字来自 **Pocket + TEEZ**。
 
