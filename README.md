@@ -22,7 +22,7 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 | --- | --- | --- | --- |
 | 01 | **-3- Deokki** | 初次公开 | [Windows v1.2.1](https://github.com/Behonest1117/Deokki-desktop-pet/releases/latest) |
 | 02 | **Cap' Jjoong** | 初次公开 | [Windows v1.1.6](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet/releases/tag/v1.1.6) |
-| 03–08 | …… | 待定 | — |
+| 03–08 | …… | …… | — |
 
 每只 Pocketeez 使用独立版本号和独立发布记录。
 
