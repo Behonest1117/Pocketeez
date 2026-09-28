@@ -40,7 +40,7 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 - [前往下载](https://github.com/Behonest1117/Deokki-desktop-pet/releases/latest)
 
 
-## ⚓ Pocketeez 02
+## 🐿️ Pocketeez 02
 
 ### [Cap' Jjoong](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet)
 
