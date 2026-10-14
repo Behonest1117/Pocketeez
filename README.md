@@ -18,13 +18,14 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 ## 💜 Project Status
 
 **当前阶段：Phase 1 — Eight Individual Pets**  
-**总体进度：2 / 8 released**
+**总体进度：3 / 8 released**
 
 | No. | Character | Status | Version |
 | --- | --- | --- | --- |
 | 01 | **-3- Deokki** | 初次公开 | [Windows v1.2.1](https://github.com/Behonest1117/Deokki-desktop-pet/releases/latest) |
 | 02 | **Cap' Jjoong** | 初次公开 | [Windows v1.1.6](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet/releases/tag/v1.1.6) |
-| 03–08 | …… | …… | — |
+| 03 | **Ddeongrami** | 初次公开 | [Windows v1.0.1](https://github.com/Behonest1117/Ddeongrami-desktop-pet/releases/latest) |
+| 04–08 | …… | …… | — |
 
 每只 Pocketeez 使用独立版本号和独立发布记录。
 
@@ -52,6 +53,17 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 - 8 种隐藏互动
 - 当前正式版本：**v1.1.6**
 - [前往下载](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet/releases/tag/v1.1.6)
+
+## 🐰 Pocketeez 03
+
+### [Ddeongrami ✦](https://github.com/Behonest1117/Ddeongrami-desktop-pet)
+
+*A tiny pink star bunny living on your desktop.*
+
+- Windows 桌面程序
+- 8 种隐藏互动
+- 当前正式版本：**v1.0.1**
+- [前往下载](https://github.com/Behonest1117/Ddeongrami-desktop-pet/releases/latest)
 
 ---
 
