@@ -1,4 +1,4 @@
-# Pocketeez
+<img width="1838" height="1192" alt="image" src="https://github.com/user-attachments/assets/a412703a-7a47-4b8d-b737-5a23c4dc79bc" /># Pocketeez
 
 > **Tiny companions for your desktop — made for ATINY.**  
 > 把小小的它们放进电脑里，在日常使用电脑的时候陪着 ATINY。
@@ -24,7 +24,7 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 | --- | --- | --- | --- |
 | 01 | [-3- Deokki](https://github.com/Behonest1117/Deokki-desktop-pet) | PUBLIC / RELEASED | Windows v1.2.1 |
 | 02 | [Cap' Jjoong](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet) | PUBLIC / RELEASED | Windows v1.1.6 |
-| 03 | **Ddeongrami** | PUBLIC / RELEASED | Windows v1.0.1 |
+| 03 | [Ddeongrami](https://github.com/Behonest1117/Ddeongrami-desktop-pet) | PUBLIC / RELEASED | Windows v1.0.1 |
 | 04 | **Heartyu** | 开发中，近期上线 | — |
 | 05–08 | Waiting | NOT STARTED | — |
 
