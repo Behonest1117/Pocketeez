@@ -1,4 +1,4 @@
-<img width="1838" height="1192" alt="image" src="https://github.com/user-attachments/assets/a412703a-7a47-4b8d-b737-5a23c4dc79bc" /># Pocketeez
+# Pocketeez
 
 > **Tiny companions for your desktop — made for ATINY.**  
 > 把小小的它们放进电脑里，在日常使用电脑的时候陪着 ATINY。
