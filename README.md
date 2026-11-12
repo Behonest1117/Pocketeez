@@ -26,7 +26,7 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 | 02 | [Cap' Jjoong](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet) | PUBLIC / RELEASED | Windows v1.1.6 |
 | 03 | [Ddeongrami](https://github.com/Behonest1117/Ddeongrami-desktop-pet) | PUBLIC / RELEASED | Windows v1.0.1 |
 | 04 | [Heartyu](https://github.com/Behonest1117/Heartyu-desktop-pet) | PUBLIC / RELEASED | Windows v1.0.0 |
-| 05 | **小黑猫？喵（名字待定）** | 开发中，近期上线 | — |
+| 05 | **小黑猫？喵（你绝对能猜到是哪一只）** | 开发中，近期上线 | — |
 | 06–08 | Waiting | NOT STARTED | — |
 
 每只 Pocketeez 使用独立版本号和独立发布记录。
@@ -115,17 +115,6 @@ Pocketeez 采用“系列入口 + 角色独立仓库”的管理方式：
 - 未来统一 App：建立独立仓库与独立版本体系
 
 让每只角色保持自己的个性和发布节奏，同时为未来共享真正通用的代码保留空间。
-
----
-
-## ✨ Design Principles
-
-- Pixel art
-- Tiny and lightweight
-- Character-specific
-- Playful and interactive
-- Suitable for long-term desktop companionship
-- Cute without disturbing normal computer use
 
 ---
 
