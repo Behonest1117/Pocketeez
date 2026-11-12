@@ -18,14 +18,14 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 ## 💜 Project Status
 
 **当前阶段：Phase 1 — Eight Individual Pets**  
-**总体进度：3 / 8 released**
+**总体进度：4 / 8 released**
 
 | No. | Character | Status | Version |
 | --- | --- | --- | --- |
 | 01 | [-3- Deokki](https://github.com/Behonest1117/Deokki-desktop-pet) | PUBLIC / RELEASED | Windows v1.2.1 |
 | 02 | [Cap' Jjoong](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet) | PUBLIC / RELEASED | Windows v1.1.6 |
 | 03 | [Ddeongrami](https://github.com/Behonest1117/Ddeongrami-desktop-pet) | PUBLIC / RELEASED | Windows v1.0.1 |
-| 04 | **Heartyu** | 开发中，近期上线 | — |
+| 04 | [Heartyu](https://github.com/Behonest1117/Heartyu-desktop-pet) | PUBLIC / RELEASED | Windows v1.0.0 |
 | 05 | **小黑猫？喵（名字待定）** | 开发中，近期上线 | — |
 | 06–08 | Waiting | NOT STARTED | — |
 
@@ -66,6 +66,19 @@ Pocketeez 计划制作 8 只对应 ATEEZ 8 位成员的独立桌面宠物。
 - 8 种隐藏互动
 - 当前正式版本：**v1.0.1**
 - [前往下载](https://github.com/Behonest1117/Ddeongrami-desktop-pet/releases/latest)
+
+---
+
+## 🐶 Pocketeez 04
+
+### [Heartyu ♡](https://github.com/Behonest1117/Heartyu-desktop-pet)
+
+*A cheerful golden retriever living on your desktop.*
+
+- Windows 桌面程序
+- 8 种隐藏互动
+- 当前正式版本：**v1.0.0**
+- [前往下载](https://github.com/Behonest1117/Heartyu-desktop-pet/releases/latest)
 
 ---
 
